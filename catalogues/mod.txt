@@ -54,6 +54,7 @@ LibGUI
 Spinnery
 Clippy's Tippies
 Roughly Enough Items
+Roughly Enough Items Plugin Compatibilities
 Mod Menu
 Adorn
 Bee Resourceful
@@ -167,3 +168,6 @@ Guess What Will Happen In This
 Extension
 Chocolate Bar
 Woodiertexas' Desserts
+Connector
+Forgified Fabric API
+Chunk Pregenerator
