@@ -1,3 +1,3 @@
-$mod:author
-$pack:author
+{any author[mentioned mod]}
+{any author[mentioned pack]}
 {mentioned person}

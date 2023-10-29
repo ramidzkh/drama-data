@@ -27,6 +27,6 @@
 {unique person} says their ModFest mod is better than {unique modnameone} {unique modnametwo}
 {unique person} says their ModFest mod isn't a copy of {unique modname}
 {unique person} says their ModFest mod isn't a copy of {unique modnameone} {unique modnametwo}
-{unique person} claims $mod doesn't add enough $mod:modfeature
+{unique person} claims {unique mod m} doesn't add enough {unique modfeature[m]}
 {unique person} claims their fork of {unique loader}, called {unique newloader}, is better
 {unique person} claims their fork of {unique loader}, called {unique newloader}, is better because it contains {unique goodthing}

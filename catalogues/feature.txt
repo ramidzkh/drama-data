@@ -1,6 +1,6 @@
 {unique mod} integration
 {unique power} support
-$mod:modfeature
+{unique modfeature[mentioned mod]}
 config support
 configuration with {unique doctype} files
 lossy cables
