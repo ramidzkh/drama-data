@@ -1,0 +1,32 @@
+{unique person} dislikes {unique mod}
+{unique person} says {unique mod} should be ported to {unique runtime}
+{unique person} says {unique pack} is better than {unique pack}
+{unique person} says {unique pack} should be made available on {unique platform}
+{unique person} says {unique pack} should be made available on {unique runtime}
+{unique person} says {unique platform} is better than {unique platform}
+{unique person} says {unique runtime} is better than {unique runtime}
+{unique person} says {unique server} is better than {unique server}
+{unique person} says players should not play on {unique runtime}
+{unique person} says players should not use {unique platform}
+{unique person} says players should play on {unique runtime}
+{unique person} says players should use {unique platform}
+{unique person} says {unique badthing} is better than {unique badthing}
+{unique person} says {unique platform} is worse than {unique badthing}
+{unique person} says {unique platform} should get rid of their {unique badthing}
+{unique person} says {unique mod} should be licensed under {unique license}
+{unique person} says {unique hostingsite} is bad and should never be used
+{unique person} says moving your mods to {unique hostingsite} is bad and should never be done
+{unique person} says recommending Flamingo is not a bad thing
+{unique person} says using MCP names is good
+{unique person} claims Hatsune Miku made minecraft
+{unique person} says {unique alternatemapping} is the best thing ever
+{unique person} says "modid" is the best mod id for mods
+{unique person} says ModJam is better than ModFest
+{unique person} says ModFest is better than ModJam
+{unique person} says their ModFest mod is better than {unique modname}
+{unique person} says their ModFest mod is better than {unique modnameone} {unique modnametwo}
+{unique person} says their ModFest mod isn't a copy of {unique modname}
+{unique person} says their ModFest mod isn't a copy of {unique modnameone} {unique modnametwo}
+{unique person} claims $mod doesn't add enough $mod:modfeature
+{unique person} claims their fork of {unique loader}, called {unique newloader}, is better
+{unique person} claims their fork of {unique loader}, called {unique newloader}, is better because it contains {unique goodthing}

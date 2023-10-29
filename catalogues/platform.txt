@@ -1,0 +1,13 @@
+ATLauncher
+Twitch
+FTB Launcher
+GDLauncher
+Hearth Launcher
+MCUpdater
+MultiMC
+SKLauncher
+Wonko
+Technic Launcher
+Overwolf Curse Launcher
+TLauncher
+FTB App

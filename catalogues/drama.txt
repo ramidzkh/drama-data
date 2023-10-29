@@ -1,0 +1,175 @@
+{unique boringopinions}
+{unique drama}. in an unrelated incident, {unique drama}
+{unique drama}. in a related accident, {unique drama}. {unique person} is fully to blame for this
+{unique mod} {unique badverbpresent} under {unique platform}
+{unique mod} dropped support for {unique mod}
+{unique person} dropped support for {unique mod} due to {unique badthing} and the author being {unique badadjective}
+{unique mod} is removed from {unique platform} because it contains {unique badthing}
+{unique mod} now depends on {unique mod}
+{unique mod} now depends on {unique modnameone} {unique modnametwo}
+{unique person} accidentally mentions @everyone on {unique discord}
+{unique person} accidentally mentions @{unique person} on {unique discord}, causing mass panic and hysteria
+{unique person} breaks EULA, causing {unique person} to leave {unique community}
+modmuss50 threatens to remove {unique emote}, causing {unique person} to leave {unique community}
+{unique person} creates a fork of {unique mod}
+{unique person} creates a fork of {unique mod} with {unique feature}
+{unique person} creates a fork of {unique mod}, citing its {unique badthing}
+{unique person} creates a fork of {unique mod}, claiming that it is {unique badadjective}
+{unique person} creates a fork of {unique mod}, claiming that it is {unique badadjective}, and that {unique modnameone} {unique modnametwo} is better
+{unique person} decides to {unique action}
+{unique person} forks {unique mod} because $mod:author decided to {unique action}
+{unique person} is banned from {unique community}
+{unique person} is banned from {unique community} for {unique badthing}
+{unique person} is pinged one too many times on {unique discord}
+{unique person} mistakenly believes {unique mod} was made by {unique person}
+{unique person} refuses to play {unique mod} unless it has {unique feature}
+{unique person} refuses to play Tech Reborn by modmuss50 unless the {unique emote} emote is returned
+{unique person} refuses to support {unique mod}
+{unique person} refuses to support {unique mod} because of {unique badthing}
+{unique person} releases their new mod, {unique modnameone} {unique modnametwo}
+{unique person} releases their new mod, Tesser{unique modnametwo}
+{unique person} says {unique badthing} {unique badthing} is not a problem
+{unique person} says {unique mod} belongs in {unique pack}
+{unique person} says {unique mod} doesn't belong in {unique pack} because it causes {unique badthing}
+{unique person} says {unique mod} causes {unique badthing}
+{unique person} says {unique mod} causes {unique badthing} because of {unique badthing}
+{unique person} says {unique mod} is {unique badadjective}
+{unique person} says {unique mod} is {unique badadjective} because of {unique badthing}
+{unique person} says {unique mod} is better than $mod:alternative
+{unique person} says {unique mod} is better than $mod:alternative because of {unique badthing}
+{unique person} says {unique platform} {unique badverbpresent}
+{unique person} says their drama generator is better than {unique person}'s
+{unique person} ships {unique person} with {unique person}
+{unique person} suggests {unique mod} should be rewritten in {unique language}
+{unique person} suggests {unique modnameone} {unique modnametwo} by {unique person} should be rewritten in {unique language}
+{unique person} wishes {unique modnameone} {unique modnametwo} would be released already
+{unique person} disappears, never to be heard from again
+{unique person} disappears, never to be heard from again. they didn't feel very good, Mr. Stark
+$mod:author adds {unique feature} to {unique mod}
+$mod:author adds {unique feature} to {unique mod} due to {unique badthing} in $mod:alternative
+$mod:author adds {unique mod} to {unique platform}
+$mod:author adds config option to {unique mod} for {unique feature}
+$mod:author insists the {unique badthing} caused by {unique mod} is actually {unique mod}'s fault
+$mod:author makes {unique mod} {unique badverbinfinitive} in {unique pack}
+$mod:author makes {unique mod} {unique badverbinfinitive} when in a pack with {unique mod}
+$mod:author refuses to add config to {unique mod} for {unique feature}
+$mod:author refuses to fix {unique mod}'s incompatibility with {unique mod}
+$mod:author refuses to port {unique mod} to {unique runtime}
+$mod:author refuses to support {unique mod}
+$mod:author refuses to update {unique mod}
+$mod:author removes {unique feature} from {unique mod} because of an interaction with {unique mod}
+$mod:author rejects {unique person}'s pull request to {unique mod}, which {unique prdeny}
+$mod:author removes {unique feature} from {unique mod}
+$mod:author removes config from {unique mod} for {unique feature}
+$mod:author renames {unique mod} to {unique modnameone} {unique modnametwo}
+$mod:author renames {unique mod} to Tesser{unique modnametwo}
+$mod:author says the {unique badthing} in {unique mod} $badthing:is actually a feature
+$mod:author says the purpose of {unique mod} is {unique modaction}, just like in {unique modnameone} {unique modnametwo}
+$mod:author says the purpose of {unique mod} is {unique modaction}, just like in {unique modnameone} {unique modnametwo} {unique modnametwo} {unique modnametwo} {unique modnametwo} {unique modnametwo}
+$mod:author says the purpose of {unique mod} is {unique modaction}, just like in Tesser{unique modnametwo}
+$mod:author relicenses {unique mod} under {unique license}
+$mod:author relicenses {unique mod} under {unique license} due to {unique badthing} that {unique person} caused
+$mod:author ported {unique mod} to Forge
+$mod:author ported {unique mod} to Fabric
+$mod:author ported {unique mod} to Rift
+$mod:author ported {unique mod} to JAR mod
+$pack:author adds {unique pack} to {unique platform}
+$pack:author refuses to put any mod in {unique pack} without {unique feature}
+$pack:author refuses to put any mod in {unique pack} without it being approved by {unique person}
+$pack:author removes {unique mod} from {unique pack}
+$pack:author replaces {unique mod} with $mod:alternative in {unique pack} because it {unique badverbpresent}
+$pack:author replaces {unique mod} with $mod:alternative in {unique pack} because it is too {unique badadjective}
+$pack:author demands {unique person} write {unique modnameone} {unique modnametwo}
+$pack:author thinks $mod:author should rename {unique mod} to {unique modnameone} {unique modnametwo}
+$pack:author thinks $mod:author should rename {unique mod} to Tesser{unique modnametwo}
+$server:author bans {unique person} from {unique server}
+an interaction between {unique mod} and {unique mod} causes {unique badthing}
+if they reach their Patreon goal, {unique person} will {unique action}
+in a move to get {unique internetpoints}, {unique person} decides to {unique action}
+in response to {unique person}'s decision to {unique action}, {unique person} decides to {unique action}
+in response to {unique person}'s decision to {unique action}, {unique person} decides to name every commit "e"
+breaking news: {unique person} declared mentally insane after producing a mod named {unique modnameone} {unique modnameone} {unique modnameone} {unique modnametwo} {unique modnametwo} {unique modnametwo}
+breaking news: {unique person} declared mentally insane after producing a mod named {unique modnameone} Tesser{unique modnametwo} {unique modnametwo} {unique modnametwo}
+the fabric community is in an uproar due to the removal of the beloved emote {unique emote}. the community says they can not believe that they removed the emote just because of {unique badthing}
+{unique person} is upset and crying because of {unique badthing}. {unique person} should not have hurt them. they should apologize
+{unique person} whispers quietly into the ear of {unique person}: "{unique spokenwords}"
+{unique person} yells loudly at {unique person}: "{unique spokenwords}"
+lil tater says hello to {unique person}, but it leads to {unique person} getting extremely upset because lil tater does not talk to them instead
+{unique person} uses {unique alternatemapping} for their new mod, {unique modnameone} {unique modnametwo}
+{unique person} releases their new library, Fabric Language {unique nonjvmlang}
+{unique person} creates a new {unique license} set of minecraft mappings
+{unique person} creates a new {unique license} set of minecraft mappings, which controversially names every method and class "e"
+{unique person} creates a new {unique license} set of minecraft mappings, which controversially puts half the game in the {unique package} package
+{unique person} wants to {unique action}
+{unique person}, {unique person}, and {unique person} walk into a bar... inside they created the ultimate mod, the perfect mod: {unique modnameone} {unique modnametwo} {unique modnametwo} {unique modnametwo}
+{unique person} and {unique person} collaborate to {unique action}
+{unique person} wants to {unique action} after seeing {unique drama}
+Ironically, {unique person} chooses to {unique action} at the same time as {unique person}
+{unique person} lashes out at all modders who use {unique alternatemapping}
+{unique person} spams crusty foss reactions on modders who license under {unique license}
+{unique person} states that the best config format is {unique doctype}. {unique person} disagrees
+{unique person} merges a previously closed pr which they claimed, although contains {unique badthing}, also has {unique goodthing}
+{unique person} loses to {unique person} in a game of {unique game}, to no one's surprise
+$mod:author threatens to turn {unique mod} into a {unique license} standalone {unique nonjvmlang} game
+{unique person} threatens to {unique action}
+{unique person} claims that {unique alternatemapping} is better than yarn
+{unique person} changes the mojang logo in the title screen in {unique mod}
+{unique person} claims that adding a button in the title screen will benefit users
+{unique person} leaves {unique community} because of {unique badthing}
+{unique person} leaves {unique community} after {unique person} tries to {unique action}
+{unique person} refuses to play {unique game} with {unique person}
+Fabric API module for {unique feature} has been abandoned for months because of {unique badthing}
+{unique person} refuses to create a mod with their random ModFest partner, {unique person}
+{unique person} refuses to participate in ModFest because of {unique badthing}
+{unique person} won 1st place in the Industry category with their mod {unique modnameone} {unique modnametwo}
+{unique person} won 1st place in the Exploration category with their mod {unique modnameone} {unique modnametwo}
+{unique person} won 1st place in the Magic category with their mod {unique modnameone} {unique modnametwo}
+{unique person} threatens to {unique action} due to being put together with {unique person} and {unique person} in their random ModFest group
+{unique person} says their ModFest mod is the best because it adds {unique feature}
+{unique person} misunderstood the ModFest rules and accidentally made a mod for {unique game} instead
+it was not a good idea to {unique action}
+{unique person} learnt they shouldn't just go and {unique action}
+once upon a time, {unique person} decided to {unique action}
+long, long ago... well, I mean a few seconds ago, {unique drama}
+remember kids, don't {unique action}
+remember kids, the only thing to be afraid of is {unique badthing}
+{unique person} revealed how they love to {unique action}
+{unique personmojang} says the licence on mojang mappings is now {unique license}
+{unique person} just discovered that using the {unique package} package in your mod code is not a good idea
+After being repeatedly told not to, {unique person} decided to {unique action}
+{unique person} gets angry at {unique person} for stealing their ModFest idea
+{unique person} blocks {unique person} after they slacked off on their part of the ModFest mod
+{unique person} thinks of the perfect ModFest mod: {unique modnameone} {unique modnametwo}
+{unique person} thinks of the perfect ModFest mod: {unique modnameone} {unique modnameone} {unique modnametwo}
+{unique person} thinks of the perfect ModFest mod: {unique modnameone} {unique modnameone} {unique modnameone} {unique modnameone} {unique modnametwo}
+{unique person} thinks of the perfect ModFest mod: {unique modnameone} {unique modnameone} {unique modnametwo} {unique modnametwo}
+{unique person} is making a mod that has {unique feature} for their ModFest entry
+{unique person} is forming a ModFest team with {unique person}, {unique person}, and {unique person}. They intend to make a mod focused on {unique feature}
+$mod:author makes the GitHub repo for $mod private.
+$mod:author makes the BitBucket repo for $mod private.
+$mod:author makes the GitLab repo for $mod private.
+$mod:author threatens to remove {unique person} from $mod's commit history
+{unique person} is kidnapped by $mod:author and forced to work on $mod
+{unique person} is kidnapped by LePichu and forced to work at ReMod Studios
+{unique person} tries to shoehorn politics into every little corner of each discussion
+{unique person} tries to shoehorn politics into every little corner of each discussion; {unique drama}
+{unique person} tried to impersonate {unique relevantperson} on {unique place}, and ended up losing a lot of {unique internetpoints}
+{unique person} tried to impersonate {unique relevantperson} on {unique place}; {unique drama}
+it is discovered that {unique relevantperson} had seen {unique alternatemapping}
+$mod:author abandons $mod, claiming there are better mods adding $mod:modfeature
+$mod:author abandons $mod, claiming there are better mods adding $mod:modfeature
+{unique person} imported drama from {unique community} on {unique discord}
+{unique person} forks {unique loader}, naming the fork {unique newloader}
+{unique person} forks {unique loader} due to excessive {unique badthing}, naming the fork {unique newloader}
+$mod:author rewrites $mod as a Bedrock Addon
+$mod:author rewrites all their mods as Bedrock Addons
+{unique person} ran into an Internal Server Error. This causes {unique mod} to crash
+{unique person} complains about Internal Server Errors, leading to drama
+{unique loader} causes Internal Server Errors, making {unique person} create {unique newloader}
+{unique person} rewrites {unique mod} in {unique language}, causing Internal Server Errors
+{unique person} dislikes Internal Server Errors, citing its {unique badthing}
+$mod:author ported {unique mod} to LoaderComplex
+$mod:author ported {unique mod} to KubeJS
+{unique person} opens a pr to $mod claiming to fix a critical bug but that removes every trace of $mod:author
+{unique person} PR support for {unique loader} to {unique mod}, but {unique drama}
+{unique person} was really just the alt account of {unique person} this whole time

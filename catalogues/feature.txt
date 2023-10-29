@@ -1,0 +1,28 @@
+{unique mod} integration
+{unique power} support
+$mod:modfeature
+config support
+configuration with {unique doctype} files
+lossy cables
+ore {unique tupling}
+Create support
+power conversion
+Phosphor compatibility
+update notifier
+{unique doctype} recipes
+immersive {unique modaction}
+performance optimizations
+Starlight compatibility
+tiny potato support
+LibCD support
+"Go get a Cookie" screen
+EnderIO support
+a config GUI
+ModFest integration
+OptiFine support
+Iris support
+Sodium compatibility
+datagen
+game fucker
+placeable items
+Lithium compatibility

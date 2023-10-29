@@ -1,0 +1,24 @@
+break {unique feature}
+break {unique mod}
+break Tiny Potato
+cause {unique badthing}
+cause explosions
+corrupt chunks
+crash
+kill the framerate
+kill the tickrate
+make the game too hard
+spam the log
+steal logins
+collect data
+require signing a EULA
+require OpenGL 4.6
+require Flamingo
+make MrIbby disappear
+remove all compatability
+revert the game to beta 1.7
+destroy ModFest
+forget to participate in ModFest
+slack off during ModFest
+forget to submit their ModFest entry
+steal their ModFest entry from {unique person}

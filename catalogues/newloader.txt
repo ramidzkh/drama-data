@@ -1,0 +1,11 @@
+PissLoader
+{unique license}{unique loader}
+{unique doctype}{unique loader}
+{unique modthing}{unique loader}
+{unique license} Mod Loader
+{unique doctype} mod loader
+{unique modthing} Mod Loader
+{unique modthing}{unique loader}
+Piss{unique loader}
+{unique loader}++
+{unique loader}: {unique modthing} Edition

@@ -1,0 +1,9 @@
+/r/feedthebeast
+/r/fabricmc
+/r/minecraft
+#minecraftforge
+{unique discord}
+{unique person}'s stream chat
+{unique server}
+EsperNet
+ModFest community

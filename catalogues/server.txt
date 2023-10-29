@@ -1,0 +1,3 @@
+the AOF US server
+the AOF EU server
+the Fibercraft server

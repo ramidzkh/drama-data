@@ -1,0 +1,49 @@
+BSODs:are
+bugs:are
+closed source code:is
+copyright violations:are
+chunk errors:are
+crashes:are
+discourse:is
+drama:is
+EULA violations:are
+freezes:are
+ArrayIndexOutOfBoundsException:is
+invasive coremods:are
+item duplication:is
+lambda spam:is
+log spam:is
+malicious code:is
+malware:is
+memory leaks:are
+mental breakdowns:are
+mixels:are
+NullPointerException:is
+particles in the server console:are
+power creep:is
+rage quits:are
+tons of multiblocks:are
+DMCAs:are
+scala array imports:are
+outdated memes:are
+random OpenGL matrix transforms:are
+ore dictionary corruption:is
+no tiny potat representation:is
+@Overwrite:is
+MCP names:are
+Mojmap:is
+DataFixerUpper:is
+Blaze3D:is
+obfuscated source:is
+proguard:is
+proguARRd:is
+bad commit messages:are
+bad world gen:is
+string concatentation abuse:is
+no updates:are
+not naming every commit "e":is
+CurseForge deleting all their projects:is
+forgetting to release their ModFest mod:is
+refusing to participate in ModFest:is
+use of incompatibly-licensed code:is
+requiring OptiFine as a dependency:is

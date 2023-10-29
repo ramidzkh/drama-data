@@ -1,0 +1,78 @@
+assets stolen from {unique mod}
+assets stolen from {unique person}
+BSODs
+bugs
+bikeshed
+closed source code
+copyright violations
+chunk errors
+codecs
+crashes
+discourse
+drama
+EULA violations
+freezes
+ArrayIndexOutOfBoundsException
+invasive coremods
+item duplication
+lambda spam
+log spam
+malicious code
+malware
+memory leaks
+mental breakdowns
+mixels
+NullPointerException
+particles in the server console
+power creep
+rage quits
+tons of multiblocks
+DMCAs
+scala array imports
+outdated memes
+random OpenGL matrix transforms
+ore dictionary corruption
+code stolen from {unique mod}
+code stolen from {unique person}
+no tiny potat representation
+@Overwrite
+using {unique alternatemapping}
+DataFixerUpper
+Blaze3D
+using proguard
+using proguARRd
+bad commit messages
+bad world gen
+string concatenation abuse
+no updates
+not naming every commit "e"
+CurseForge deleting all their projects
+forgetting to release their ModFest mod
+refusing to participate in ModFest
+slacking off on their ModFest teammates
+forgetting to release their ModFest mod
+forgetting to submit their teams ModFest mod
+stealing another team's ModFest idea
+stealing their ModFest idea from {unique person}
+stealing their ModFest idea from team {unique person}
+gh issuespam
+{unique badthing} (German Branch)
+{unique person} (German Branch)
+{unique community} (German Branch)
+landmastered
+use of incompatibly-licensed code from {unique mod}
+use of incompatibly-licensed code
+requiring OptiFine as a dependency
+UUID-banning {unique person}
+intentionally breaking {unique mod}
+forking {unique loader} as {unique newloader}
+forking {unique alternatemapping}
+datagen
+Internal Server Errors
+harassing {unique person} to update their mods
+modding {unique oldversion} in current year
+harassing {unique person} to downgrade their mods to {unique oldversion}
+HD Textures
+blaming {unique person} for drama
+remapping their mod to {unique alternatemapping}
+selling NFTs

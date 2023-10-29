@@ -1,0 +1,16 @@
+{unique nonjvmlang}
+Clojure
+Groovy
+Java
+Jython
+Kotlin
+Scala
+Esperanto
+French
+MCreator
+Unity C#
+Unreal Engine
+Lua
+e
+EndC
+Scratch
