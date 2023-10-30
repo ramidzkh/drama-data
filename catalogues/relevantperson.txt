@@ -1,3 +1,5 @@
 {any author[mentioned mod]}
 {any author[mentioned pack]}
+{any author[mentioned server]}
+{any author[mentioned loader]}
 {mentioned person}

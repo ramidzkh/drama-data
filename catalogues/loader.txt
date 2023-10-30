@@ -1,14 +1,13 @@
+Bukkit
 Fabric
 Forge
-Rift
 LiteLoader
-Risugami's ModLoader
-Quilt
-Fabedrock
-Spigot
-Sponge
-Paper
-OpenModLoader
-Bukkit
 LoaderComplex
 NeoForge
+OpenModLoader
+Paper
+Quilt
+Rift
+Risugami's ModLoader
+Spigot
+Sponge

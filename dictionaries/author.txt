@@ -1,169 +1,244 @@
+Adorn:Juuz
+Alaska Native Craft:Platymemo
+Alaska Native Craft:Whangd00dle
+Applied Energistics 2:Gimpansor
+Applied Energistics 2:Technici4n
+Aquarius:LemmaEOF (formerly known as B0undaryBreaker)
+Arcane Magic:raphydaphy
+ArticlesOfTemerant:Arathain
+Astromine:shedaniel
+Astromine:Shnupbups
+Astromine:vini2003
+Astromine:Zundrel
+Aurora's Decorations:LambdAurora
+Automobility:FoundationGames
+Bad Biome Mod:Valoeghese
+Beach Slimes:sargunv
+Bee Angry-est:Juuz
+Bee Better:Draylar
+Bee Better:Shnupbups
+Bee Productive:LemmaEOF (formerly known as B0undaryBreaker)
+Bee Resourceful:Martmists
+Better Dropped Items:Draylar
+Big Buckets:Will BL
+Bing Bing Wahoo:Tropheus Jay
+Blockus:Brandcraft_
+Bucket Hat:JamiesWhiteShirt
+Bulky Shulkies:i509VCB
+Campanion:Prospector
+Canvas:Grondag
+Cardinal Components:Pyrofab
+Cauldron Brewing:GiantNuker
+CC Restitched:Martmists
+CC Restitched:shedaniel
+CC Restitched:Zundrel
+Chunk Pregenerator:Speiger
+Cinderscapes:Prospector
+Cinderscapes:Vaerian
+Climatic World Type:Valoeghese
+Climatic World Type:Valoeghese
+Clippy's Tippies:vini2003
+Cloth API:shedaniel
+ConnectedTexturesMod for Fabric:Pepper
+Connector:Su5eD
+Consistency+:Carter
+Consistency+:IMS
+Consistency+:Siuol
+Consistency+:Tropheus Jay
+Conveyance:Zundrel
+Cotton:Juuz
+Create:Pepper
+Create:Tropheus Jay
+Creeper Spores:Pyrofab
+Daemonic:Arathain
+Deep Mob Learning Refabricated:NathanPB
+Diggus Maximus:Kryptonaught
+Draylar's Battle Towers:Draylar
+Dynamic FPS:Juliand665
+EasyExcavate:Shnupbups
+Enhanced Block Entities:FoundationGames
+Epicurean:LemmaEOF (formerly known as B0undaryBreaker)
+Everything is a Hat:Draylar
+Ex-Features:halotroop2288
+Expanded Storage:NinjaPhenix
+Extension:Octal
+ExtraDoors:ExtraCrafTX
+Extra Pieces:Shnupbups
+Fabric API:asie
+Fabric API:Grondag
+Fabric API:modmuss50
+Fabric API:Player
+Fabric API:Technici4n
+Fabric for Fabric:mounderfod
+Fabric Furnaces:Draylar
+Fabric Language Kotlin:Nikky
+Facility:Grondag
+Fermion:Grondag
+Fishy Bears:Sand
+Flamingo:modmuss50
+Flamingo:Vexatos
+Flonters:Yoghurt4C
+Forgified Fabric API:Su5eD
+FREX:Grondag
+Fusions Fluxery:Fusion Flux
+GiveMeHats:Acrogenous
+Glassential:lykrast
+Golems Galore:ffrann
+Gshops:Will BL
+Guess What Will Happen In This:Anatom3000
+Guess What Will Happen In This:ENDERZOMBI102
+GVault:Will BL
+Haema:Will BL
+Hardcore Questing Mode:shedaniel
+Hollow Logs:haykam
+Hwyla:TehNut
+I Am Very Smart:shedaniel
+Ignis Fatuus:cool_mineman
+I Need Keybinds:shedaniel
+Informed Load:GiantNuker
+Inmis:Draylar
+Iris:coderbot
+Iris:IMS
+IrishWolves:Valoeghese
+Item Model Fix:Pepper
+JumpOverFences:Martmists
+Kibe:D4rkness_King
+Kyanite:Siuol
+LambdaBetterGrass:LambdAurora
+LambdaControls:LambdAurora
+LambdaFoxes:LambdAurora
+LambdaMap:LambdAurora
+LambDynamicLights:LambdAurora
+Lapis Warps:Will BL
+LibCD:LemmaEOF (formerly known as B0undaryBreaker)
+LibGUI:Juuz
+Lil Tater:UpcraftLP
+Lil Tater:Yoghurt4c
+Lithium:JellySquid
+LoaderComplex:ENDERZOMBI102
+Lovely Snails:LambdAurora
+Malazan:Arathain
+MAmbience:andre111_
+Materialisation:shedaniel
+Milk+:Tropheus Jay
+Modern Industralization:Technici4n
+Mod Menu:Prospector
+Mo' Structures:ffrann
+Mouse Wheelie:Siphalor
+Netherite Plus:OroArmor
+Nether Things:Brandcraft
+Ok Zoomer:joaoh1
+OptiFabric:modmuss50
+Orderly:UpcraftLP
+Ost Overhaul:Sand
+Packages:quat
+Parry:FoundationGames
+PastelWonderland:Stereo528
+Patchouli:williewillus
+Phonos:FoundationGames
+Phosphor:JellySquid
+Pingspam:BasiqueEvangelist
+Plato's Transporters:Acrogenous
+Portable Jukebox:Will BL
+Randomly Adding Anything:OliviaTheVampire
+Reborn Core:modmuss50
+Redstone Bits:Shnupbups
+Refined Machinery:abused_master
+Requiem:Pyrofab
+Roughly Enough Items:shedaniel
+Roughly Enough Items Plugin Compatibilities:shedaniel
+RSWires:2xsaiko
+Runorama:liach
+Sandwichable:FoundationGames
+Shest:vini2003
+Simplex Terrain:SuperCoder79
+Sodium:JellySquid
+Soul Shards Respawn:TehNut
+Spinnery:vini2003
+SpruceUI:LambdAurora
+Stockpile:branchpanic
+Supernatural Crops:Fusion Flux
+TacoCraft:ffrann
+Tech Reborn:modmuss50
+Terrestria:coderbot
+Terrestria:Prospector
+Terrestria:Valoeghese
+The Biome Overhaul:Valoeghese
+TheBiomeOverhaul:Valoeghese
+The Hallow:Draylar
+The Hallow:Emi
+The Hallow:Fabric Community
+The Hallow:i509VCB
+The Hallow:Juuz
+The Hallow:LemmaEOF (formerly known as B0undaryBreaker)
+The Hallow:liach
+The Hallow:Shnupbups
+The Hallow:Valoeghese
+The Hallow:vini2003
+The Hallow:Virtuoel
+The Hallow:Yanis48
+Thinking With Portatos:Fusion Flux
+Torcherino:NinjaPhenix
+Towelette:Virtuoel
+Trap Expansion:Lemon
+Trap Expansion:Shnupbups
+Traverse:coderbot
+Traverse:Prospector
+Trees Do Not Float:Grondag
+Trinkets:Emi
+Trumpet Skeletons:JamiesWhiteShirt
+United Conveyors:falkreon
+Unlit Torches:Maowcraft
+Vanilla Hammers:Draylar
+Vanilla Toolsets:Draylar
+Villager Hats:Lemon
+VoxelMap:MamiyaOtaru
+Wild World:andre111_
+WorldEdit:sk89q
+Wrenchable:Zundrel
+Wrench Anything:Zundrel
+ZoesteriaConfig:Valoeghese
+
+All of Fabric:AK9
+All of Fabric:the AoF team
+All The Mods:the All The Mods team
+Bee Merry:Yoghurt4C
+Fabric All In One:NaturaSpell
+ModFest:ModFest
+Randomly Added Mods:Martmists
+the Fibercraft modpack:immibis
+
+the AOF EU server:AK9
+the AOF EU server:the AoF team
+the AOF US server:AK9
+the AOF US server:the AoF team
+the Fibercraft server:haykam
+
+Bukkit:Dinnerbone
 Fabric:asie
 Fabric:modmuss50
 Fabric:Grondag
 Fabric:Player
-Fabric API:asie
-Fabric API:modmuss50
-Fabric API:Grondag
-Fabric API:Player
-Fabric API:Technician
-Vanilla Hammers:Draylar
-Tech Reborn:modmuss50
-WorldEdit:sk89q
-Soul Shards Respawn:TehNut
-OptiFabric:modmuss50
-Draylar's Battle Towers:Draylar
-Mouse Wheelie:Siphalor
-Fabric Language Kotlin:Nikky
-Traverse:Prospector
-Traverse:coderbot
-Terrestria:Prospector
-Terrestria:Valoeghese
-Terrestria:coderbot
-Diggus Maximus:Kryptonaught
-Wild World:andre111_
-Blockus:Brandcraft_
-Requiem:Pyrofab
-Materialisation:shedaniel
-Vanilla Toolsets:Draylar
-Stockpile:branchpanic
-Randomly Adding Anything:OliviaTheVampire
-Simplex Terrain Generation:SuperCoder79
-Canvas:Grondag
-FREX:Grondag
-Extra Pieces:Shnupbups 
-EasyExcavate:Shnupbups 
-Redstone Bits:Shnupbups
-Trees Do Not Float:Grondag
-Aquarius:B0undaryBreaker
-Bee Productive:B0undaryBreaker
-Bee Better:Draylar
-Bee Better:Shnupbups 
-Trinkets:Emi
-Trumpet Skeletons:JamiesWhiteShirt
-Creeper Spores:Pyrofab
-Runorama:liach
-Bee Angry-est:Juuz
-Epicurean:B0undaryBreaker
-LibGUI:Juuz
-Spinnery:vini2003
-Clippy's Tippies:vini2003
-Roughly Enough Items:shedaniel
-Mod Menu:Prospector
-Adorn:Juuz
-Bee Resourceful:Martmists
-Bulky Shulkies:i509VCB
-Dynamic FPS:Juliand665 
-Lithium:JellySquid
-Sodium:JellySquid
-Phosphor:JellySquid
-Iris:coderbot
-Iris:IMS
-Expanded Storage:NinjaPhenix
-ExtraDoors:ExtraCrafTX
-Facility:Grondag
-Flonters:Yoghurt4C
-Hollow Logs:haykam
-Hwyla:TehNut
-JumpOverFences:Martmists
-MAmbience:andre111_ 
-Ok Zoomer:joaoh1
-Orderly:UpcraftLP
-RSWires:2xsaiko
-Shest:vini2003
-Fermion:Grondag
-LibCD:B0undaryBreaker
-Reborn Core:modmuss50
-Flamingo:Vexatos
-Flamingo:modmuss50
-Conveyance:Zundrel
-Wrench Anything:Zundrel
-Wrenchable:Zundrel
-TheBiomeOverhaul:Valoeghese
-Climatic World Type:Valoeghese
-IrishWolves:Valoeghese
-Bad Biome Mod:Valoeghese
-LambdaControls:LambdAurora
-LambdaFoxes:LambdAurora
-LambDynamicLights:LambdAurora
-Ex-Features:halotroop2288
-Informed Load:GiantNuker
-Cauldron Brewing:GiantNuker
-Astromine:vini2003
-Astromine:shedaniel
-Astromine:Shnupbups
-Astromine:Zundrel
-Applied Energistics 2:Gimpansor
-Patchouli:williewillus
-Villager Hats:Lemon
-Cloth API:shedaniel
-Cardinal Components:Pyrofab
-Glassential:lykrast
-Inmis:Draylar
-Campanion:Prospector
-Packages:quat
-Ignis Fatuus:cool_mineman
-Modern Industralization:technici4n
-Cinderscapes:Vaerian
-Cinderscapes:Prospector
-Trap Expansion:Lemon
-Trap Expansion:Shnupbups
-Deep Mob Learning Refabricated:NathanPB
-Netherite Plus:OroArmor
-CC Restitched:Zundrel
-CC Restitched:Martmists
-CC Restitched:shedaniel
-Hardcore Questing Mode:shedaniel
-Kibe:D4rkness_King
-Fabric for Fabric:mounderfod
-All of Fabric:AK9
-the Fibercraft modpack:immibis
-Unlit Torches:Maowcraft
-Mo' Structures:ffrann
-TacoCraft:ffrann
-Golems Galore:ffrann
-Pingspam:BasiqueEvangelist
-Sandwichable:FoundationGames
-Phonos:FoundationGames
-Enhanced Block Entities:FoundationGames
-Parry:FoundationGames
-Automobility:FoundationGames
-ConnectedTexturesMod for Fabric:Pepper
-Item Model Fix:Pepper
-Create Refabricated:Pepper
-Create Refabricated:Tropheus Jay
-Daemonic:Arathain
-ArticlesOfTemerant:Arathain
-Malazan:Arathain
-Aurora's Decorations:LambdAurora
-Lovely Snails:LambdAurora
-LambdaMap:LambdAurora
-SpruceUI:LambdAurora
-Bing Bing Wahoo:Tropheus Jay
-Milk+:Tropheus Jay
-Consistency+:Carter
-Consistency+:Siuol
-Consistency+:Tropheus Jay
-Consistency+:IMS
-Kyanite:Siuol
-Plato's Transporters:Acrogenous
-GiveMeHats:Acrogenous
-Alaska Native Craft:Whangd00dle
-Alaska Native Craft:Platymemo
-Haema:Will BL
-Big Buckets:Will BL
-Portable Jukebox:Will BL
-Lapis Warps:Will BL
-GVault:Will BL
-Gshops:Will BL
-PastelWonderland:Stereo528
-Fishy Bears:Sand
-Ost Overhaul:Sand
-Fusions Fluxery:Fusion Flux
-Supernatural Crops:Fusion Flux
-Thinking With Portatos:Fusion Flux
+Forge:LexManos
+Forge:cpw
+LiteLoader:Mumfrey
 LoaderComplex:ENDERZOMBI102
-MCentral:ENDERZOMBI102
-Guess What Will Happen In This:Anatom3000
-Guess What Will Happen In This:ENDERZOMBI102
-Extension:Octal
+NeoForge:cpw
+NeoForge:sciwhiz12
+NeoForge:pupnewfster
+NeoForge:Technici4n
+NeoForge:Curle
+NeoForge:matyrobbrt
+NeoForge:SizableShrimp
+OpenModLoader:modmuss50
+OpenModLoader:Gegy
+Paper:aikar
+Quilt:gdude
+Quilt:OroArmor
+Rift:Runemoro
+Risugami's ModLoader:Risugami
+Spigot:Dinnerbone
+Spigot:md_5
+Sponge:Gabi
+Sponge:Zid
+Sponge:zml
