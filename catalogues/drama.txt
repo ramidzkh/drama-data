@@ -173,3 +173,6 @@ it is discovered that {unique relevantperson} had seen {unique alternatemapping}
 {unique person} opens a pr to {unique mod m} claiming to fix a critical bug, removing every trace of {unique author[m]}
 {unique person} PR support for {unique loader} to {unique mod}, but {unique drama}
 {unique person} was really just the alt account of {unique person} this whole time
+{unique person} mutes {unique person} after they've expressed their disgust for {unique badthing}
+{unique person} mutes {unique person} after they've expressed their passion for {unique badthing}
+{unique drama}. {mentioned person} threatens to take legal action
