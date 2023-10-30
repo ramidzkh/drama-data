@@ -176,3 +176,13 @@ it is discovered that {unique relevantperson} had seen {unique alternatemapping}
 {unique person} mutes {unique person} after they've expressed their disgust for {unique badthing}
 {unique person} mutes {unique person} after they've expressed their passion for {unique badthing}
 {unique drama}. {mentioned person} threatens to take legal action
+{unique mod} releases for {unique minecraftversion}, crashing {unique hostingsite}
+{unique loader} releases for {unique minecraftversion}, crashing {unique hostingsite}
+{unique person} caught {unique person} saying "fuck {unique feature}" in chat, subsequently reported to Mojang
+{unique person} modified {silent unique mod m}{unique modfeature[m]}, gets cease-and-desist letter from {unique author[m]}
+
+Fed up with {unique mod m}, {unique author[m]} leaves to work on {unique game}
+Fed up with {unique loader l}, {unique author[l]} leaves to work on {unique game}
+Fed up with the entire modding community, {unique person} leaves to work on {unique game}
+
+{unique drama}{unique reaction}

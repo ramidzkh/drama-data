@@ -22,3 +22,4 @@ forget to participate in ModFest
 slack off during ModFest
 forget to submit their ModFest entry
 steal their ModFest entry from {unique person}
+add {unique person} to their Curseforge project without consent

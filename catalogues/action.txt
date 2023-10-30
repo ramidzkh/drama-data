@@ -15,17 +15,17 @@ stop watching anime long enough to actually code something
 stop watching {unique animeseries} long enough to actually code something
 rewrite {unique mod} in {unique language} for real this time
 sell their mod to {unique platform} for exclusive use
-threaten to embrace {unique badthing}
-threaten to add {unique badthing} to all their mods if {unique feature} is added to {unique mod}
+embrace {unique badthing}
+add {unique badthing} to all their mods if {unique feature} is added to {unique mod}
 relicense their mods under {unique license}
 rewrite {unique mod} to depend on {unique mod}
 rewrite {unique mod} to depend on {unique modnameone} {unique modnametwo}
 remove tiny potato from {unique mod}
 write all of their mods in {unique language}
 move all their mods to {unique hostingsite}
-threaten to embrace {unique hostingsite}
-threaten to move their mods to {unique hostingsite} if {unique feature} isn't added to {unique mod}
-threaten to move their mods to {unique hostingsite} if {unique feature} isn't added to {unique modnameone} {unique modnametwo}
+embrace {unique hostingsite}
+move their mods to {unique hostingsite} if {unique feature} isn't added to {unique mod}
+move their mods to {unique hostingsite} if {unique feature} isn't added to {unique modnameone} {unique modnametwo}
 JiJ {unique mod} in their mod
 create a mod named {unique modnameone} {unique modnametwo}
 use an MCP name in their mod
@@ -49,6 +49,6 @@ bikeshedded fabric api PR for {unique feature}
 meta-mutes {unique person} because they {unique action}
 {unique person} makes a false statement of fact
 {unique person} deletes tiny potato
-threaten to remove {unique person} from their mod's commit history
+remove {unique person} from their mod's commit history
 fork {unique loader} as {unique newloader}
 drop support for {unique loader} in favor of {unique newloader}, their fork

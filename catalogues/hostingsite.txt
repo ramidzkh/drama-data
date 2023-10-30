@@ -28,3 +28,6 @@ Dropbox
 Guilded.gg uploads
 ApexMinecraft
 a QR code on imgur
+Cloudflare
+Aternos
+Minecraft Marketplace
