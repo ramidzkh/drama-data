@@ -74,9 +74,9 @@ modmuss50 threatens to remove {unique emote}, causing {unique person} to leave {
 {silent unique mod m}{unique author[m]} ported {m} to Rift
 {silent unique mod m}{unique author[m]} ported {m} to JAR mod
 {silent unique mod m}{unique author[m]} threatens to turn {m} into a {unique license} standalone {unique nonjvmlang} game
-{silent unique mod m}{unique author[m]} makes the GitHub repo for {m} private.
-{silent unique mod m}{unique author[m]} makes the BitBucket repo for {m} private.
-{silent unique mod m}{unique author[m]} makes the GitLab repo for {m} private.
+{silent unique mod m}{unique author[m]} makes the GitHub repo for {m} private
+{silent unique mod m}{unique author[m]} makes the BitBucket repo for {m} private
+{silent unique mod m}{unique author[m]} makes the GitLab repo for {m} private
 {silent unique mod m}{unique author[m]} threatens to remove {unique person} from {m}'s commit history
 {silent unique mod m}{unique author[m]} abandons {m}, claiming there are better mods adding {unique modfeature[m]}
 {silent unique mod m}{unique author[m]} abandons {m}, claiming there are better mods adding {unique modfeature[m]}
@@ -104,6 +104,7 @@ breaking news: {unique person} declared mentally insane after producing a mod na
 the Fabric community is in an uproar due to the removal of the beloved emote {unique emote}. The community says they can not believe that they removed the emote just because of {unique badthing}
 {unique person} is upset and crying because of {unique badthing}. {unique person} should not have hurt them. they should apologize
 {unique person} whispers quietly into the ear of {unique person}: "{unique spokenwords}"
+{unique person} whispers quietly into the ear of haykam: "pog"
 {unique person} yells loudly at {unique person}: "{unique spokenwords}"
 lil tater says hello to {unique person}, but it leads to {unique person} getting extremely upset because lil tater does not talk to them instead
 {unique person} uses {unique alternatemapping} for their new mod, {unique modnameone} {unique modnametwo}
@@ -122,7 +123,7 @@ Ironically, {unique person} chooses to {unique action} at the same time as {uniq
 {unique person} merges a previously closed pr which they claimed, although contains {unique badthing}, also has {unique goodthing}
 {unique person} loses to {unique person} in a game of {unique game}, to no one's surprise
 {unique person} threatens to {unique action}
-{unique person} claims that {unique alternatemapping} is better than yarn
+{unique person} claims that {unique alternatemapping} is better than Yarn
 {unique person} changes the mojang logo in the title screen in {unique mod}
 {unique person} claims that adding a button in the title screen will benefit users
 {unique person} leaves {unique community} because of {unique badthing}
@@ -180,9 +181,10 @@ it is discovered that {any relevantperson} had seen {unique alternatemapping}
 {unique loader} releases for {unique minecraftversion}, crashing {unique hostingsite}
 {unique person} caught {unique person} saying "fuck {unique feature}" in chat, subsequently reported to Mojang
 {unique person} modified {silent unique mod m}{unique modfeature[m]}, gets cease-and-desist letter from {unique author[m]}
+while {silent unique mod m}{unique author[m]} and {unique person} were discussing in #{unique feature} debating for 3 years, 2 practical implementations were made, citing {m}'s flaws
 
-Fed up with {unique mod m}, {unique author[m]} leaves to work on {unique game}
-Fed up with {unique loader l}, {unique author[l]} leaves to work on {unique game}
-Fed up with the entire modding community, {unique person} leaves to work on {unique game}
+fed up with {unique mod m}, {unique author[m]} leaves to work on {unique game}
+fed up with {unique loader l}, {unique author[l]} leaves to work on {unique game}
+fed up with the entire modding community, {unique person} leaves to work on {unique game}
 
 {unique drama}{unique reaction}
