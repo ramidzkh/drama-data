@@ -90,3 +90,5 @@ MCeption:play Minecraft inside Minecraft
 Guess What Will Happen In This:fuck up the game
 Guess What Will Happen In This:add blocks
 Guess What Will Happen In This:load python
+gadget:packet dumping
+gadget:entity inspection

@@ -64,6 +64,7 @@ Flonters
 Forgified Fabric API
 FREX
 Fusions Fluxery
+gadget
 GiveMeHats
 Glassential
 Golems Galore
