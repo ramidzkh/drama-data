@@ -83,6 +83,7 @@ Flonters:Yoghurt4C
 Forgified Fabric API:Su5eD
 FREX:Grondag
 Fusions Fluxery:Fusion Flux
+gadget:BasiqueEvangelist
 GiveMeHats:Acrogenous
 Glassential:lykrast
 Golems Galore:ffrann
