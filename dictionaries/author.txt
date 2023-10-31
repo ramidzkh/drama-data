@@ -72,6 +72,8 @@ Fabric API:Technici4n
 Fabric for Fabric:mounderfod
 Fabric Furnaces:Draylar
 Fabric Language Kotlin:Nikky
+Fabricated Legacy Forge:CatCore
+Fabricated Rift:CatCore
 Facility:Grondag
 Fermion:Grondag
 Fishy Bears:Sand
@@ -98,8 +100,8 @@ I Need Keybinds:shedaniel
 Informed Load:GiantNuker
 Inmis:Draylar
 Iris:coderbot
-Iris:IMS
 IrishWolves:Valoeghese
+Iris:IMS
 Item Model Fix:Pepper
 JumpOverFences:Martmists
 Kibe:D4rkness_King
@@ -145,8 +147,8 @@ Reborn Core:modmuss50
 Redstone Bits:Shnupbups
 Refined Machinery:abused_master
 Requiem:Pyrofab
-Roughly Enough Items:shedaniel
 Roughly Enough Items Plugin Compatibilities:shedaniel
+Roughly Enough Items:shedaniel
 RSWires:2xsaiko
 Runorama:liach
 Sandwichable:FoundationGames
@@ -216,22 +218,21 @@ the Fibercraft server:haykam
 
 Bukkit:Dinnerbone
 Fabric:asie
-Fabric:modmuss50
 Fabric:Grondag
+Fabric:modmuss50
 Fabric:Player
-Forge:LexManos
 Forge:cpw
+Forge:LexManos
 LiteLoader:Mumfrey
-LoaderComplex:ENDERZOMBI102
 NeoForge:cpw
-NeoForge:sciwhiz12
-NeoForge:pupnewfster
-NeoForge:Technici4n
 NeoForge:Curle
 NeoForge:matyrobbrt
+NeoForge:pupnewfster
+NeoForge:sciwhiz12
 NeoForge:SizableShrimp
-OpenModLoader:modmuss50
+NeoForge:Technici4n
 OpenModLoader:Gegy
+OpenModLoader:modmuss50
 Paper:aikar
 Quilt:gdude
 Quilt:OroArmor

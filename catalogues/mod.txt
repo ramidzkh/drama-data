@@ -51,6 +51,8 @@ Extension
 ExtraDoors
 Extra Pieces
 Fabric API
+Fabricated Legacy Forge
+Fabricated Rift
 Fabric for Fabric
 Fabric Furnaces
 Fabric Language Kotlin

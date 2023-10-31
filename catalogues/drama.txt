@@ -101,7 +101,7 @@ in response to {unique person}'s decision to {unique action}, {unique person} de
 in response to {unique person}'s decision to {unique action}, {unique person} decides to name every commit "e"
 breaking news: {unique person} declared mentally insane after producing a mod named {unique modnameone} {unique modnameone} {unique modnameone} {unique modnametwo} {unique modnametwo} {unique modnametwo}
 breaking news: {unique person} declared mentally insane after producing a mod named {unique modnameone} Tesser{unique modnametwo} {unique modnametwo} {unique modnametwo}
-the fabric community is in an uproar due to the removal of the beloved emote {unique emote}. the community says they can not believe that they removed the emote just because of {unique badthing}
+the Fabric community is in an uproar due to the removal of the beloved emote {unique emote}. The community says they can not believe that they removed the emote just because of {unique badthing}
 {unique person} is upset and crying because of {unique badthing}. {unique person} should not have hurt them. they should apologize
 {unique person} whispers quietly into the ear of {unique person}: "{unique spokenwords}"
 {unique person} yells loudly at {unique person}: "{unique spokenwords}"
@@ -159,9 +159,9 @@ After being repeatedly told not to, {unique person} decided to {unique action}
 {unique person} is kidnapped by LePichu and forced to work at ReMod Studios
 {unique person} tries to shoehorn politics into every little corner of each discussion
 {unique person} tries to shoehorn politics into every little corner of each discussion; {unique drama}
-{unique person} tried to impersonate {unique relevantperson} on {unique place}, and ended up losing a lot of {unique internetpoints}
-{unique person} tried to impersonate {unique relevantperson} on {unique place}; {unique drama}
-it is discovered that {unique relevantperson} had seen {unique alternatemapping}
+{unique person} tried to impersonate {any relevantperson} on {unique place}, and ended up losing a lot of {unique internetpoints}
+{unique person} tried to impersonate {any relevantperson} on {unique place}; {unique drama}
+it is discovered that {any relevantperson} had seen {unique alternatemapping}
 {unique person} imported drama from {unique community} on {unique discord}
 {unique person} forks {unique loader}, naming the fork {unique newloader}
 {unique person} forks {unique loader} due to excessive {unique badthing}, naming the fork {unique newloader}

@@ -45,7 +45,7 @@ slack off making their ModFest mod
 forget to work on their ModFest mod
 actually create a mod for ModFest
 block {unique person} for stealing their idea for {unique feature} for their ModFest mod
-bikeshedded fabric api PR for {unique feature}
+bikeshedded Fabric api PR for {unique feature}
 meta-mutes {unique person} because they {unique action}
 {unique person} makes a false statement of fact
 {unique person} deletes tiny potato
