@@ -10,6 +10,7 @@ release their new mod, {unique mod}
 release their new mod, {unique modnameone} {unique modnametwo}
 remove {unique feature} from their mod
 PR {unique feature} to {unique mod}
+ask the community which loader {unique mod} should support
 rewrite their mod in {unique language}
 actually contribute to the community for once
 stop watching anime long enough to actually code something
