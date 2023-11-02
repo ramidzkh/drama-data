@@ -93,6 +93,7 @@ LambdaMap
 LambDynamicLights
 Lapis Warps
 LibCD
+LibBlockAttributes
 LibGUI
 Lil Tater
 Lithium

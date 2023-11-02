@@ -15,6 +15,7 @@ performance optimizations
 Starlight compatibility
 tiny potato support
 LibCD support
+fractional pickaxe support
 "Go get a Cookie" screen
 EnderIO support
 a config GUI

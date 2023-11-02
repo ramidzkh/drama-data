@@ -29,6 +29,8 @@ Torcherino:torches
 Wrench Anything:wrenches
 Wrenchable:wrenches
 Flamingo:flamingos
+Facility:fractional pickaxe support
+LibBlockAttributes:fractional pickaxe support
 Lil Tater:lil taters
 United Conveyors:conveyors
 Informed Load:load screen

@@ -9,3 +9,4 @@
 . {any relevantperson} rehosts {mentioned mod} on {unique hostingsite}.
 . {unique reactor} creates a fork of {mentioned mod} and swaps it to {unique alternatemapping}.
 . {unique reactor} deletes all of their CurseForge projects.
+. {any relevantperson} was advised to seek god

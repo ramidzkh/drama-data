@@ -114,6 +114,7 @@ LambdaMap:LambdAurora
 LambDynamicLights:LambdAurora
 Lapis Warps:Will BL
 LibCD:LemmaEOF (formerly known as B0undaryBreaker)
+LibBlockAttributes:AlexIIL
 LibGUI:Juuz
 Lil Tater:UpcraftLP
 Lil Tater:Yoghurt4c
