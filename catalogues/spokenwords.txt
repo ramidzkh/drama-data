@@ -7,5 +7,5 @@
 You should give me your {unique internetpoints}.
 I code every single thing with {unique language}.
 I always use {unique license}
-{unique alternatemapping} are the best mappings.
+{unique mappings} are the best mappings.
 {unique loader} is the best modloader.

@@ -36,7 +36,7 @@ code stolen from {unique mod}
 code stolen from {unique person}
 no tiny potat representation
 @Overwrite
-using {unique alternatemapping}
+using {unique mappings}
 DataFixerUpper
 Blaze3D
 using proguard
@@ -66,7 +66,7 @@ requiring OptiFine as a dependency
 UUID-banning {unique person}
 intentionally breaking {unique mod}
 forking {unique loader} as {unique newloader}
-forking {unique alternatemapping}
+forking {unique mappings m} for more {unique mappings_classic[m]}
 datagen
 Internal Server Errors
 harassing {unique person} to update their mods
@@ -74,7 +74,7 @@ modding {unique oldversion} in current year
 harassing {unique person} to downgrade their mods to {unique oldversion}
 HD Textures
 blaming {unique person} for drama
-remapping their mod to {unique alternatemapping}
+remapping their mod to {unique mappings}
 selling NFTs
 spreading hostile propaganda about {unique reactor}
 {unique mod} sentinel

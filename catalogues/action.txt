@@ -31,7 +31,7 @@ move their mods to {unique hostingsite} if {unique feature} isn't added to {uniq
 JiJ {unique mod} in their mod
 create a mod named {unique modnameone} {unique modnametwo}
 use an MCP name in their mod
-use {unique alternatemapping} for their new mod, {unique modnameone} {unique modnametwo}
+use {unique mappings m} for their new mod, {unique modnameone} {unique modnametwo}, citing the brevity of {unique mappings_classic[m]}
 release a new library, Fabric Language {unique nonjvmlang}
 create a new {unique license} set of minecraft mappings
 create a new {unique license} set of minecraft mappings, which controversially puts half the game in the {unique package} package
