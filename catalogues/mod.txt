@@ -23,6 +23,7 @@ Campanion
 Canvas
 Cardinal Components
 Cauldron Brewing
+Caxton
 CC Restitched
 Chunk Pregenerator
 Cinderscapes
@@ -42,6 +43,7 @@ Diggus Maximus
 Draylar's Battle Towers
 Dynamic FPS
 EasyExcavate
+EMI
 Enhanced Block Entities
 Epicurean
 Everything is a Hat

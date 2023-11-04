@@ -94,3 +94,4 @@ Guess What Will Happen In This:add blocks
 Guess What Will Happen In This:load python
 gadget:packet dumping
 gadget:entity inspection
+Caxton:improved font support
