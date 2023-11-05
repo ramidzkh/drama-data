@@ -35,3 +35,6 @@ uwuscript
 LOLCODE
 RockstarLang
 FreeBASIC
+Common Lisp
+Scheme
+Racket

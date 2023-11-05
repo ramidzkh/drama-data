@@ -19,6 +19,7 @@ Clippy's Tippies:tips
 Adorn:decorations
 Bee Resourceful:bees
 Bulky Shulkies:shulker boxes
+Caxton:improved font support
 Expanded Storage:cursed chests
 ExtraDoors:doors
 Flonters:flowers

@@ -29,6 +29,7 @@ Campanion:Prospector
 Canvas:Grondag
 Cardinal Components:Pyrofab
 Cauldron Brewing:GiantNuker
+Caxton:+merlan #flirora
 CC Restitched:Martmists
 CC Restitched:shedaniel
 CC Restitched:Zundrel
@@ -56,6 +57,7 @@ Diggus Maximus:Kryptonaught
 Draylar's Battle Towers:Draylar
 Dynamic FPS:Juliand665
 EasyExcavate:Shnupbups
+EMI:Emi
 Enhanced Block Entities:FoundationGames
 Epicurean:LemmaEOF (formerly known as B0undaryBreaker)
 Everything is a Hat:Draylar
