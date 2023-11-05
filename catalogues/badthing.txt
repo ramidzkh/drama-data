@@ -28,7 +28,7 @@ power creep
 rage quits
 tons of multiblocks
 DMCAs
-scala array imports
+Scala array imports
 outdated memes
 random OpenGL matrix transforms
 ore dictionary corruption
