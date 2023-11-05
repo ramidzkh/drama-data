@@ -107,7 +107,7 @@ the Fabric community is in an uproar due to the removal of the beloved emote {un
 {unique person} whispers quietly into the ear of haykam: "pog"
 {unique person} yells loudly at {unique person}: "{unique spokenwords}"
 lil tater says hello to {unique person}, but it leads to {unique person} getting extremely upset because lil tater does not talk to them instead
-{unique person} uses {unique alternatemapping} for their new mod, {unique modnameone} {unique modnametwo}
+{unique person} uses {unique mappings} for their new mod, {unique modnameone} {unique modnametwo}
 {unique person} releases their new library, Fabric Language {unique nonjvmlang}
 {unique person} creates a new {unique license} set of minecraft mappings
 {unique person} creates a new {unique license} set of minecraft mappings, which controversially names every method and class "e"
@@ -117,13 +117,13 @@ lil tater says hello to {unique person}, but it leads to {unique person} getting
 {unique person} and {unique person} collaborate to {unique action}
 {unique person} wants to {unique action} after seeing {unique drama}
 Ironically, {unique person} chooses to {unique action} at the same time as {unique person}
-{unique person} lashes out at all modders who use {unique alternatemapping}
+{unique person} lashes out at all modders who use {unique mappings}
 {unique person} spams crusty foss reactions on modders who license under {unique license}
 {unique person} states that the best config format is {unique doctype}. {unique person} disagrees
 {unique person} merges a previously closed pr which they claimed, although contains {unique badthing}, also has {unique goodthing}
 {unique person} loses to {unique person} in a game of {unique game}, to no one's surprise
 {unique person} threatens to {unique action}
-{unique person} claims that {unique alternatemapping} is better than Yarn
+{unique person} claims that {unique mappings m}'s {unique mappings_classic[m]} makes it better than {unique mappings}
 {unique person} changes the mojang logo in the title screen in {unique mod}
 {unique person} claims that adding a button in the title screen will benefit users
 {unique person} leaves {unique community} because of {unique badthing}
@@ -162,7 +162,7 @@ After being repeatedly told not to, {unique person} decided to {unique action}
 {unique person} tries to shoehorn politics into every little corner of each discussion; {unique drama}
 {unique person} tried to impersonate {any relevantperson} on {unique place}, and ended up losing a lot of {unique internetpoints}
 {unique person} tried to impersonate {any relevantperson} on {unique place}; {unique drama}
-it is discovered that {any relevantperson} had seen {unique alternatemapping}
+it is discovered that {any relevantperson} had seen {unique mappings}
 {unique person} imported drama from {unique community} on {unique discord}
 {unique person} forks {unique loader}, naming the fork {unique newloader}
 {unique person} forks {unique loader} due to excessive {unique badthing}, naming the fork {unique newloader}

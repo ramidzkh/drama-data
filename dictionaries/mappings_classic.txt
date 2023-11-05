@@ -1,0 +1,33 @@
+Plasma Mappings:Tile
+Plasma Mappings:net.minecraft.sortme.MagicPistonNumbers
+MCP Mappings:isNonBoss
+MCP Mappings:isRemote
+MCP Mappings:field_834792_k_
+MCP Mappings:TileEntitySpecialRenderer
+Mojmap:Beardifier
+Mojmap:Optionull
+Mojmap:PoseStack
+Mojmap:ResourceLocation
+Mojmap:youJustLostTheGame
+PigeonMC Mappings:🐦
+Spigot Mappings:IBlockData
+Spigot Mappings:IChatBaseComponent
+Spigot Mappings:EntityHuman
+Spigot Mappings:clk.g(a)
+Bukkit Mappings:IBlockData
+Bukkit Mappings:IChatBaseComponent
+Bukkit Mappings:EntityHuman
+Bukkit Mappings:clk.g(a)
+Valoeghese's AlphaDev Mappings:Tile
+Blayyke's 1.2.5 Mappings:Tile
+"e" Mappings:"e"
+"e" Mappings:the blasphemous "f"
+Yarn:Screenshooter
+Quilt Mappings:C_aoiejfl
+Quilt Mappings:f_nzhetdud
+Legacy Yarn:WeatherEntity
+Cursed POMF:Tile
+Intermediary:class_310
+Obfuscated Source:do \{ do \{ do \{ bq.c(i.next(), j, l -= 6);
+Obfuscated Source:clk.g(a)
+Obfuscated Source:☃️

@@ -135,6 +135,7 @@ Netherite Plus:OroArmor
 Nether Things:Brandcraft
 Ok Zoomer:joaoh1
 OptiFabric:modmuss50
+OptiFine:sp614x
 Orderly:UpcraftLP
 Ost Overhaul:Sand
 Packages:quat

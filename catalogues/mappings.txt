@@ -12,5 +12,4 @@ Quilt Mappings
 Legacy Yarn
 Cursed POMF
 Intermediary
-☃️
 Obfuscated Source

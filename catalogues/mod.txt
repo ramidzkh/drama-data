@@ -113,6 +113,7 @@ Netherite Plus
 Nether Things
 Ok Zoomer
 OptiFabric
+OptiFine
 Orderly
 Ost Overhaul
 Packages

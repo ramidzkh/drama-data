@@ -19,6 +19,7 @@ Clippy's Tippies:tips
 Adorn:decorations
 Bee Resourceful:bees
 Bulky Shulkies:shulker boxes
+Caxton:improved font support
 Expanded Storage:cursed chests
 ExtraDoors:doors
 Flonters:flowers
@@ -94,4 +95,6 @@ Guess What Will Happen In This:add blocks
 Guess What Will Happen In This:load python
 gadget:packet dumping
 gadget:entity inspection
-Caxton:improved font support
+Forge:extended reach
+NeoForge:extended reach
+OptiFine:extended reach

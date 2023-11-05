@@ -2,7 +2,7 @@ well written code
 well written mixins
 quality memes
 professional code
-no traces of {unique alternatemapping}
+no traces of {unique mappings}
 good error handling
 many optimisations (thanks to {unique person})
 good world generation
