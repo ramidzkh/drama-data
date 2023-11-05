@@ -24,3 +24,5 @@ forget to submit their ModFest entry
 steal their ModFest entry from {unique person}
 add {unique person} to their Curseforge project without consent
 mixin into {unique mod}
+cause name conflicts with {unique mappings}
+print to System.out

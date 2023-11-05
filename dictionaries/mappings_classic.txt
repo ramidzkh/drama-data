@@ -5,6 +5,8 @@ MCP Mappings:isRemote
 MCP Mappings:field_834792_k_
 MCP Mappings:TileEntitySpecialRenderer
 Mojmap:Beardifier
+Mojmap:Level
+Mojmap:Mth
 Mojmap:Optionull
 Mojmap:PoseStack
 Mojmap:ResourceLocation
@@ -22,6 +24,7 @@ Valoeghese's AlphaDev Mappings:Tile
 Blayyke's 1.2.5 Mappings:Tile
 "e" Mappings:"e"
 "e" Mappings:the blasphemous "f"
+Yarn:ScreenHandler
 Yarn:Screenshooter
 Quilt Mappings:C_aoiejfl
 Quilt Mappings:f_nzhetdud
