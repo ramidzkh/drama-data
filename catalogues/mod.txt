@@ -142,6 +142,7 @@ Soul Shards Respawn
 Spinnery
 SpruceUI
 Stockpile
+Steam 'n' Rails
 Supernatural Crops
 TacoCraft
 Tech Reborn

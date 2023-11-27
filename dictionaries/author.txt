@@ -164,6 +164,7 @@ Soul Shards Respawn:TehNut
 Spinnery:vini2003
 SpruceUI:LambdAurora
 Stockpile:branchpanic
+Steam 'n' Rails:IThundxr
 Supernatural Crops:Fusion Flux
 TacoCraft:ffrann
 Tech Reborn:modmuss50

@@ -24,3 +24,6 @@ gets kicked from their ModFest team
 forgets to submit their ModFest mod
 adds {unique person} to their Curseforge project without consent
 mixins into {unique mod}
+causes name conflicts with {unique mappings}
+prints to System.out
+prints to System.err

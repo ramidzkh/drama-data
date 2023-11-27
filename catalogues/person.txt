@@ -43,6 +43,7 @@ i509VCB
 IHH54
 immibis
 IMS
+IThundxr
 jamalam
 JellySquid
 julian
@@ -85,7 +86,6 @@ sciwhiz12
 SDUBZ
 shedaniel
 Shnupbups
-Siphalor
 Siphalor
 Siuol
 SizableShrimp
