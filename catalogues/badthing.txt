@@ -46,7 +46,7 @@ bad world gen
 string concatenation abuse
 no updates
 not naming every commit "e"
-CurseForge deleting all their projects
+CurseForge deletion of all their projects
 forgetting to release their ModFest mod
 refusing to participate in ModFest
 slacking off on their ModFest teammates

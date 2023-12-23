@@ -12,6 +12,7 @@
 {unique person} breaks EULA, causing {unique person} to leave {unique community}
 modmuss50 threatens to remove {unique emote}, causing {unique person} to leave {unique community}
 {unique person} creates a fork of {unique mod}
+{unique person} creates a fork of {unique mod} due to it relicensing to {unique license}
 {unique person} creates a fork of {unique mod} with {unique feature}
 {unique person} creates a fork of {unique mod}, citing its {unique badthing}
 {unique person} creates a fork of {unique mod}, claiming that it is {unique badadjective}
@@ -115,7 +116,7 @@ lil tater says hello to {unique person}, but it leads to {unique person} getting
 {unique person} wants to {unique action}
 {unique person}, {unique person}, and {unique person} walk into a bar... inside they created the ultimate mod, the perfect mod: {unique modnameone} {unique modnametwo} {unique modnametwo} {unique modnametwo}
 {unique person} and {unique person} collaborate to {unique action}
-{unique person} wants to {unique action} after seeing {unique drama}
+{unique person} wants to {unique action} after {unique drama}
 Ironically, {unique person} chooses to {unique action} at the same time as {unique person}
 {unique person} lashes out at all modders who use {unique mappings}
 {unique person} spams crusty foss reactions on modders who license under {unique license}

@@ -30,3 +30,5 @@
 {unique person} claims {unique mod m} doesn't add enough {unique modfeature[m]}
 {unique person} claims their fork of {unique loader}, called {unique newloader}, is better
 {unique person} claims their fork of {unique loader}, called {unique newloader}, is better because it contains {unique goodthing}
+{unique person} says {unique license} is better than {unique license}
+{unique person} says {unique license} is worse than {unique license}

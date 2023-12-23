@@ -51,6 +51,6 @@ bikeshedded Fabric api PR for {unique feature}
 meta-mutes {unique person} because they {unique action}
 make false statements of fact
 delete tiny potato
-remove {unique person} from their mod's commit history
+remove {unique person} from the mod commit history
 fork {unique loader} as {unique newloader}
 drop support for {unique loader} in favor of {unique newloader}, their fork
