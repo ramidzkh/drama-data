@@ -75,9 +75,8 @@ modmuss50 threatens to remove {unique emote}, causing {unique person} to leave {
 {silent unique mod m}{unique author[m]} ported {m} to Rift
 {silent unique mod m}{unique author[m]} ported {m} to JAR mod
 {silent unique mod m}{unique author[m]} threatens to turn {m} into a {unique license} standalone {unique nonjvmlang} game
-{silent unique mod m}{unique author[m]} makes the GitHub repo for {m} private
-{silent unique mod m}{unique author[m]} makes the BitBucket repo for {m} private
-{silent unique mod m}{unique author[m]} makes the GitLab repo for {m} private
+{silent unique mod m}{unique author[m]} makes the {unique repohost} repo for {m} private
+{silent unique mod m}{unique author[m]} moves their mods from {unique repohost} to {unique repohost}
 {silent unique mod m}{unique author[m]} threatens to remove {unique person} from {m}'s commit history
 {silent unique mod m}{unique author[m]} abandons {m}, claiming there are better mods adding {unique modfeature[m]}
 {silent unique mod m}{unique author[m]} rewrites {m} as a Bedrock Addon

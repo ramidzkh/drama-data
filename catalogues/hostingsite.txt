@@ -2,7 +2,7 @@ CurseForge
 9minecraft
 Mediafire
 torrent sites
-GitHub
+{unique repohost}
 Discord uploads
 a server coded entirely with ARR code
 an adf.ly link
