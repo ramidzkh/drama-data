@@ -15,3 +15,4 @@ SPL-1.0
 Unlicense
 {any person}'s crayon license
 LambdaLLicense
+Polyform Shield 1.0

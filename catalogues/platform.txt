@@ -11,3 +11,5 @@ Technic Launcher
 Overwolf Curse Launcher
 TLauncher
 FTB App
+Prism Launcher
+PolyMC

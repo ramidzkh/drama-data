@@ -27,3 +27,4 @@ mixins into {unique mod}
 causes name conflicts with {unique mappings}
 prints to System.out
 prints to System.err
+uses native libraries
