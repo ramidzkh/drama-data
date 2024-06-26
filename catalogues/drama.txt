@@ -84,6 +84,7 @@ modmuss50 threatens to remove {unique emote}, causing {unique person} to leave {
 {silent unique mod m}{unique author[m]} ported {m} to LoaderComplex
 {silent unique mod m}{unique author[m]} ported {m} to KubeJS
 {silent unique mod m}{unique author[m]} changes {m}'s icon to {unique image}
+{silent unique mod m}{unique author[m]} turns {m}'s curseforge pages into gifs
 {silent unique pack p}{unique author[p]} adds {p} to {unique platform}
 {silent unique pack p}{unique author[p]} refuses to put any mod in {p} without {unique feature}
 {silent unique pack p}{unique author[p]} refuses to put any mod in {p} without it being approved by {unique person}
@@ -182,6 +183,8 @@ it is discovered that {any relevantperson} had seen {unique mappings}
 {unique person} caught {unique person} saying "fuck {unique feature}" in chat, subsequently reported to Mojang
 {unique person} modified {silent unique mod m}{unique modfeature[m]}, gets cease-and-desist letter from {unique author[m]}
 while {silent unique mod m}{unique author[m]} and {unique person} were discussing in #{unique feature} debating for 3 years, 2 practical implementations were made, citing {m}'s flaws
+{unique runtime} exists because {unique author} is \{by definition} a terrorist organization and went for {any community}
+Quilt masterminds terrorist attack on {unique loader} Trade Center. Millions must die.
 
 fed up with {unique mod m}, {unique author[m]} leaves to work on {unique game}
 fed up with {unique loader l}, {unique author[l]} leaves to work on {unique game}

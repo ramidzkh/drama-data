@@ -54,3 +54,4 @@ delete tiny potato
 remove {unique person} from the mod commit history
 fork {unique loader} as {unique newloader}
 drop support for {unique loader} in favor of {unique newloader}, their fork
+single-handedly topples {unique person}'s dictatorship and orders hits on his inner circle
