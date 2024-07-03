@@ -43,3 +43,4 @@ Netherite {unique modthing}
 {unique modthing} Refabricated
 {unique modthing} Reloaded
 Better {unique modthing}
+{unique modthing} Extensions

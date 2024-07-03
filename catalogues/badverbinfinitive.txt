@@ -10,6 +10,7 @@ kill the tickrate
 make the game too hard
 spam the log
 steal logins
+steal content
 collect data
 require signing a EULA
 require OpenGL 4.6
@@ -28,3 +29,4 @@ cause name conflicts with {unique mappings}
 print to System.out
 print to System.err
 use native libraries
+pirate

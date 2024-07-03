@@ -3,3 +3,5 @@ BitBucket
 GitLab
 Codeberg
 Sourcehut
+Gitea
+Forgejo

@@ -18,3 +18,5 @@ properties
 css
 toml
 docx
+tsv
+csv

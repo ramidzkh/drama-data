@@ -9,6 +9,7 @@ AterAnimAvis
 B0N
 BasiqueEvangelist
 BoogieMonster1O1
+Bowser
 Brandcraft
 calloatti
 Carl Bot
@@ -58,6 +59,7 @@ LePichu
 LexManos
 liach
 LudoCrypt
+Mario
 Maowcraft
 Martmists
 matyrobbrt
@@ -70,9 +72,9 @@ mounderfod
 Mumfrey
 NinjaPhenix
 Notch
-NuclearFarts
 OakBricks
 Octal
+Princess Peach
 Pepper
 Player
 Prospector
@@ -90,8 +92,8 @@ Siphalor
 Siuol
 SizableShrimp
 Sollace
-some guy on reddit
-some guy on {unique community}
+somebody on reddit
+somebody in {unique community}
 Speiger
 Stereo528
 Su5eD
@@ -109,6 +111,8 @@ Vatuu Komalia
 Vazkii
 vini2003
 Virtuoel
+Waluigi
+Wario
 Whangd00dle
 Will BL
 woodiertexas

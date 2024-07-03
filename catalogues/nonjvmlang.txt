@@ -38,3 +38,4 @@ FreeBASIC
 Common Lisp
 Scheme
 Racket
+Zig

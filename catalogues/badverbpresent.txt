@@ -10,6 +10,7 @@ kills the tickrate
 makes the game too hard
 spams the log
 steals logins
+steals content
 collects data
 requires signing a EULA
 requires OpenGL 4.6
@@ -28,3 +29,4 @@ causes name conflicts with {unique mappings}
 prints to System.out
 prints to System.err
 uses native libraries
+pirates
