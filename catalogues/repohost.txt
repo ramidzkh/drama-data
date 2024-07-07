@@ -3,3 +3,4 @@ BitBucket
 GitLab
 Codeberg
 Sourcehut
+Gitee

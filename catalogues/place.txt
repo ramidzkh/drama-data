@@ -3,6 +3,7 @@ Modrinth
 Discord
 Reddit
 Planet Minecraft
+Minecraft Forums
 {unique community}
 {unique discord}
 {unique repohost}

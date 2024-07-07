@@ -6,6 +6,7 @@ LoaderComplex
 NeoForge
 OpenModLoader
 Paper
+PaperSpigot
 Quilt
 Rift
 Risugami's ModLoader

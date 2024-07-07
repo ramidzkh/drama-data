@@ -13,3 +13,7 @@ TLauncher
 FTB App
 Prism Launcher
 PolyMC
+LunarClient
+Badlion
+Feather Client
+LabyMod
