@@ -5,6 +5,8 @@ MCP Mappings:isRemote
 MCP Mappings:field_834792_k_
 MCP Mappings:TileEntitySpecialRenderer
 Mojmap:Beardifier
+Mojmap:Component
+Mojmap:CondiutRenderState
 Mojmap:Level
 Mojmap:Mth
 Mojmap:Optionull
@@ -26,6 +28,7 @@ Blayyke's 1.2.5 Mappings:Tile
 "e" Mappings:the blasphemous "f"
 Yarn:ScreenHandler
 Yarn:Screenshooter
+Yarn:Text
 Quilt Mappings:C_aoiejfl
 Quilt Mappings:f_nzhetdud
 Legacy Yarn:WeatherEntity
@@ -34,3 +37,5 @@ Intermediary:class_310
 Obfuscated Source:do \{ do \{ do \{ bq.c(i.next(), j, l -= 6);
 Obfuscated Source:clk.g(a)
 Obfuscated Source:☃️
+Modern Yarn:class_1_99
+Modern Yarn:DrawSpec

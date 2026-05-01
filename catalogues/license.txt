@@ -16,3 +16,5 @@ Unlicense
 {any person}'s crayon license
 LambdaLLicense
 Polyform Shield 1.0
+MPL-2.0
+GPLv3

@@ -25,6 +25,7 @@ Bing Bing Wahoo:Tropheus Jay
 Blockus:Brandcraft_
 Bucket Hat:JamiesWhiteShirt
 Bulky Shulkies:i509VCB
+C2ME:ishland
 Campanion:Prospector
 Canvas:Grondag
 Cardinal Components:Pyrofab
@@ -151,6 +152,7 @@ Randomly Adding Anything:OliviaTheVampire
 Reborn Core:modmuss50
 Redstone Bits:Shnupbups
 Refined Machinery:abused_master
+Refined Storage:raoulvdberge
 Requiem:Pyrofab
 Roughly Enough Items Plugin Compatibilities:shedaniel
 Roughly Enough Items:shedaniel
