@@ -19,6 +19,7 @@ Bing Bing Wahoo
 Blockus
 Bucket Hat
 Bulky Shulkies
+C2ME
 Campanion
 Canvas
 Cardinal Components
@@ -129,6 +130,7 @@ Randomly Adding Anything
 Reborn Core
 Redstone Bits
 Refined Machinery
+Refined Storage
 Requiem
 Roughly Enough Items
 Roughly Enough Items Plugin Compatibilities

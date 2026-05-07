@@ -98,3 +98,4 @@ Five Nights at Freddy's
 Pong
 DangerZone
 Scrabble
+Hytale

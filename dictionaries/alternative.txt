@@ -14,3 +14,4 @@ Adorn:Extra Pieces
 Bulky Shulkies:Iron Shulker Boxes
 Expanded Storage:Iron Chests
 Roughly Enough Items:EMI
+Applied Energistics 2:Refined Storage
